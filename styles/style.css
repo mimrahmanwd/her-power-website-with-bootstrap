@@ -1,4 +1,66 @@
+
+/* header related style --------- */
 .nav-bg{
     height: 100px;
     background-image: linear-gradient( to right, #c084fc 10% , #4ade80 20%, #f472b6 100%);
 }
+.border-width{
+    border-right: 3px solid #FFF;
+}
+
+/* course style --------------- */
+.course-head{
+    background-image: linear-gradient( to right, #c084fc 10% , #f472b6 100%);
+}
+
+.card-head{
+    background-image: linear-gradient(90deg,#1b9f11, #9135e7);
+}
+
+.black-text{
+    color: rgb(29, 28, 28);
+}
+
+.box{
+    background-image: linear-gradient(90deg, #fce7f3, #f3edfd);
+    box-shadow: 3px 3px 10px #57d684;
+    border-radius: 10px;
+    height: 70px;
+    width: 100px;
+}
+
+.content-bg{
+    background-image: linear-gradient(90deg, #fce7f3, #f3edfd);
+    border-radius: 0px 0px 15px 10px;
+}
+
+.text-size{
+    font-size: smaller;
+}
+
+.crd-btn{
+    background-image: linear-gradient(90deg,rgb(247, 247, 99),#83e1e5);
+    padding: 18px 20px;
+    width: 120px;
+    border: 0;
+    margin: 0 35px;
+}
+
+.crd-btn-2{
+    background-image: linear-gradient( to right,#d8b4fe , #f9a8d4);
+}
+
+.cour{
+    background-image: linear-gradient( to right,  #fbcfe8 , #e9d5ff);
+}
+.text-blue{
+    color: blue;
+}
+
+.card{
+    transition:1s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+
