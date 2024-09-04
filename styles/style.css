@@ -64,3 +64,39 @@
     transform: scale(1.1);
 }
 
+/* accordion style ----------- */
+
+.accordion-title-bg{
+    background-image: linear-gradient(to right, #d8b4fe  , #fbcfe8  );
+}
+
+.accordion-bg-purple{
+  background:#ecd4fc;
+}
+
+.accordion-bg-2{
+    background: #f5d2f1;
+}
+
+
+
+h1{
+    background: linear-gradient(to right, #ac1e6b , #3148c9);
+			-webkit-text-fill-color: transparent;
+			-webkit-background-clip: text;
+}
+
+.red-btn{
+    border: 0;
+    background-color: #ef4444;
+    padding: 10px 20px ;
+    color: #FEF08A;
+    font-size: .8rem;
+    font-weight: 900;
+    border-radius: 20px;
+}
+
+
+.b-r img{
+    border-radius: 10px;
+}
